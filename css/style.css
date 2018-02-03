@@ -32,6 +32,8 @@ header {
 	margin-top: 20px;
 }
 .header-button {
+	display: inline-block;
+	text-decoration: none;
 	box-shadow: 10px 17px 34px 6px rgba(18, 61, 145, 0.83);
 	border-radius: 50px;
 	background-color: #fff;
@@ -143,8 +145,8 @@ footer {
 	margin-bottom: 13px;
 }
 .footer-button 	{
-	
 	display: inline-block;
+	text-decoration: none;
 	border: 1px solid #ffffff;
 	background-color: transparent;
 	color: #fff;
@@ -156,9 +158,9 @@ footer {
 	background-color: #ffffff;
 	color: #072b6f;
 }
-.header-button:focus, .footer-button:focus {
+/* .header-button:focus, .footer-button:focus {
 	outline: none;
-}
+} */
 
 @media  (max-width: 1199px) {
 	.header-pretitle {
