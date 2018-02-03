@@ -253,4 +253,8 @@ footer {
 	.footer-author, .footer-text {
 		text-align: center;
 	}
+
+	.footer-button-up-block {
+		top: -266px;
+	}
 }
