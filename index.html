@@ -22,8 +22,6 @@
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
 		<link rel="stylesheet" href="css/animate.css">
 		<link rel="stylesheet" href="css/style.css">
-
-		<script src="http://code.jquery.com/jquery-3.3.1.js"></script>
 </head>
 
 <body>
@@ -103,7 +101,7 @@
  			<!-- /.col-4 -->
  			<div class="col-md-4">
 				<div class="footer-button-up-block">
-					<a class="footer-button-up" href="#top"><div class="footer-button-up-arrow"></div></a>
+					<a class="footer-button-up" href="javascript:void(0);"><div class="footer-button-up-arrow"></div></a>
 				</div>
  				<div class="footer-cta-block">
  					<p class="footer-cta">Напишите мне:</p>
@@ -122,7 +120,7 @@
 	new WOW().init();
 </script>
 
-
+<script src="js/jquery-3.3.1.min.js"></script>
 <script>
 	$(".footer-button-up").click(function() {
   		$("html, body").animate({ scrollTop: 0 }, "slow");
