@@ -22,13 +22,15 @@
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
 		<link rel="stylesheet" href="css/animate.css">
 		<link rel="stylesheet" href="css/style.css">
+
+		<script src="http://code.jquery.com/jquery-3.3.1.js"></script>
 </head>
 
 <body>
  <!-- Тут будет содержимое будущего сайта -->
 
  <header>
- 	<div class="container">
+ 	<div id="top" class="container">
  		<div class="row">
  			<div class="col-lg-7">
  				<img class="header-img wow fadeInLeftBig" src="img/main-img.png" alt="Монитор">
@@ -100,6 +102,9 @@
  			</div>
  			<!-- /.col-4 -->
  			<div class="col-md-4">
+				<div class="footer-button-up-block">
+					<a class="footer-button-up" href="#top"><div class="footer-button-up-arrow"></div></a>
+				</div>
  				<div class="footer-cta-block">
  					<p class="footer-cta">Напишите мне:</p>
  					<a class="footer-button" href="https://telegram.me/SDoubleK" target="_blanc">Написать</a>
@@ -115,6 +120,14 @@
 <script src="js/wow.min.js" type=""></script>
 <script>
 	new WOW().init();
+</script>
+
+
+<script>
+	$(".footer-button-up").click(function() {
+  		$("html, body").animate({ scrollTop: 0 }, "slow");
+  		return false;
+	});
 </script>
 
 </body>

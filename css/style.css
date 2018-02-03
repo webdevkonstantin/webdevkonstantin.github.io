@@ -167,12 +167,38 @@ footer {
 .footer-button:hover {
 	background-color: #ffffff;
 	color: #072b6f;
-
 }
-/* .header-button:focus, .footer-button:focus {
-	outline: none;
-} */
-
+.footer-button-up-block {
+	position: absolute;
+	top: -92px;
+	right: 30px;
+}
+.footer-button-up {
+	display: inline-block;
+	text-decoration: none;
+	background-color: #1e5cd3;
+	background-image: linear-gradient(to bottom, #3a7dfd 0%, #1157db 100%);
+	border: solid 10px #3a7dfd;
+	border-radius: 5px;
+	box-shadow: 10px 17px 34px 6px rgba(18, 61, 145, 0.41);
+	height: 65px;
+	width: 65px;
+	transform: rotate(45deg);
+	-webkit-transition: 0.3s;
+	-o-transition: 0.3s;
+	transition: 0.3s;
+	padding: 15px;
+}
+.footer-button-up:hover {
+	box-shadow:none;
+	transform:rotate(45deg) translateY(4px);
+}
+.footer-button-up-arrow {
+	width: 18px;
+	height: 18px;
+	border-left: solid 3px #fff;
+	border-top: solid 3px #fff;
+}
 @media  (max-width: 1199px) {
 	.header-pretitle {
 		margin-top: 60px;
