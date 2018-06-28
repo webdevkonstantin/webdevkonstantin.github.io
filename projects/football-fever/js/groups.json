@@ -66,25 +66,25 @@
       "teams" : [
         {
           "name" : "Франция",
-          "flag" : "https://restcountries.eu/data/ury.svg",
+          "flag" : "https://restcountries.eu/data/fra.svg",
           "points" : 7,
           "gd" : 2
         },
         {
           "name" : "Дания",
-          "flag" : "https://restcountries.eu/data/ury.svg",
+          "flag" : "https://restcountries.eu/data/dnk.svg",
           "points" : 5,
           "gd" : 1
         },
         {
           "name" : "Перу",
-          "flag" : "https://restcountries.eu/data/ury.svg",
+          "flag" : "https://restcountries.eu/data/per.svg",
           "points" : 3,
           "gd" : 0
         },
         {
           "name" : "Австралия",
-          "flag" : "https://restcountries.eu/data/ury.svg",
+          "flag" : "https://restcountries.eu/data/aus.svg",
           "points" : 1,
           "gd" : -3
         }
@@ -96,27 +96,27 @@
       "teams" : [
         {
           "name" : "Хорватия",
-          "flag" : "https://restcountries.eu/data/ury.svg",
+          "flag" : "https://restcountries.eu/data/hrv.svg",
           "points" : 9,
           "gd" : 6
         },
         {
           "name" : "Аргентина",
-          "flag" : "https://restcountries.eu/data/ury.svg",
+          "flag" : "https://restcountries.eu/data/arg.svg",
           "points" : 4,
           "gd" : -2
         },
         {
           "name" : "Нигерия",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "flag" : "https://restcountries.eu/data/nga.svg",
+          "points" : 3,
+          "gd" : -1
         },
         {
           "name" : "Исландия",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "flag" : "https://restcountries.eu/data/isl.svg",
+          "points" : 1,
+          "gd" : -3
         }
       ]
     },
@@ -125,28 +125,28 @@
       "name" : "Группа E",
       "teams" : [
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Бразилия",
+          "flag" : "https://restcountries.eu/data/bra.svg",
+          "points" : 7,
+          "gd" : 4
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Швейцария",
+          "flag" : "https://restcountries.eu/data/che.svg",
+          "points" : 5,
+          "gd" : 1
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Сербия",
+          "flag" : "https://restcountries.eu/data/srb.svg",
+          "points" : 3,
+          "gd" : -2
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Коста Рика",
+          "flag" : "https://restcountries.eu/data/cri.svg",
+          "points" : 1,
+          "gd" : -3
         }
       ]
     },
@@ -155,28 +155,28 @@
       "name" : "Группа F",
       "teams" : [
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Швеция",
+          "flag" : "https://restcountries.eu/data/swe.svg",
+          "points" : 6,
+          "gd" : -1
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Мексика",
+          "flag" : "https://restcountries.eu/data/mex.svg",
+          "points" : 6,
+          "gd" : 3
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Южная Корея",
+          "flag" : "https://restcountries.eu/data/kor.svg",
+          "points" : 3,
+          "gd" : -2
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Германия",
+          "flag" : "https://restcountries.eu/data/deu.svg",
+          "points" : 3,
+          "gd" : 0
         }
       ]
     },
@@ -185,60 +185,60 @@
       "name" : "Группа G",
       "teams" : [
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Англия",
+          "flag" : "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+          "points" : 6,
+          "gd" : 6
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Бельгия",
+          "flag" : "https://restcountries.eu/data/bel.svg",
+          "points" : 6,
+          "gd" : 6
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Тунис",
+          "flag" : "https://restcountries.eu/data/tun.svg",
+          "points" : 0,
+          "gd" : -4
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Панама",
+          "flag" : "https://restcountries.eu/data/pan.svg",
+          "points" : 0,
+          "gd" : -8
         }
       ]
     },
     {
       "id" : 8,
-      "name" : "Группа A",
+      "name" : "Группа H",
       "teams" : [
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Сенегал",
+          "flag" : "https://restcountries.eu/data/sen.svg",
+          "points" : 4,
+          "gd" : 1
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Япония",
+          "flag" : "https://restcountries.eu/data/jpn.svg",
+          "points" : 4,
+          "gd" : 1
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Колумбия",
+          "flag" : "https://restcountries.eu/data/col.svg",
+          "points" : 3,
+          "gd" : 2
         },
         {
-          "name" : "Уругвай",
-          "flag" : "https://restcountries.eu/data/ury.svg",
-          "points" : 9,
-          "gd" : 5
+          "name" : "Польша",
+          "flag" : "https://restcountries.eu/data/pol.svg",
+          "points" : 0,
+          "gd" : -4
         }
       ]
-    },
+    }
   ]
 }
